@@ -54,6 +54,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - [Midhuhn Nirmal](https://github.com/MidhunNirmal)
 - [Avinash K B](https://github.com/avinash-panikkan)
-- [Diljith P A]()
-- [Jithu Johan Jose]()
+- [Diljith P A](https://github.com/dilji)
+- [Jithu Johan Jose](https://github.com/RoyalewidCheese)
 
